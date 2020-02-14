@@ -1,0 +1,451 @@
+2020-02-11 15:38:49 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 15:38:52 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 15:38:53 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 15:38:53 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 15:38:53 INFO  Domain:43 - ITEM: 
+2020-02-11 15:38:53 INFO  Domain:43 - ORDER: 
+2020-02-11 15:38:53 INFO  Domain:43 - STOP: 
+2020-02-11 15:38:57 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 15:38:57 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 15:38:57 INFO  Action:26 - READ: To read an item from database
+2020-02-11 15:38:57 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 15:38:57 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 15:38:57 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 15:39:00 ERROR CustomerController:36 - No database selected
+2020-02-11 15:42:35 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 15:42:38 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 15:42:40 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 15:42:40 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 15:42:40 INFO  Domain:43 - ITEM: 
+2020-02-11 15:42:40 INFO  Domain:43 - ORDER: 
+2020-02-11 15:42:40 INFO  Domain:43 - STOP: 
+2020-02-11 15:42:43 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 15:42:43 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 15:42:43 INFO  Action:26 - READ: To read an item from database
+2020-02-11 15:42:43 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 15:42:43 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 15:42:43 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 15:42:47 ERROR CustomerController:36 - Unknown database 'ProjectDB'
+2020-02-11 15:46:18 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 15:46:20 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 15:46:22 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 15:46:22 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 15:46:22 INFO  Domain:43 - ITEM: 
+2020-02-11 15:46:22 INFO  Domain:43 - ORDER: 
+2020-02-11 15:46:22 INFO  Domain:43 - STOP: 
+2020-02-11 15:46:25 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 15:46:25 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 15:46:25 INFO  Action:26 - READ: To read an item from database
+2020-02-11 15:46:25 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 15:46:25 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 15:46:25 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 15:46:29 ERROR CustomerController:36 - Column 'id' not found.
+2020-02-11 15:49:52 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 15:49:55 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 15:49:56 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 15:49:56 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 15:49:56 INFO  Domain:43 - ITEM: 
+2020-02-11 15:49:56 INFO  Domain:43 - ORDER: 
+2020-02-11 15:49:56 INFO  Domain:43 - STOP: 
+2020-02-11 15:49:59 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 15:49:59 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 15:49:59 INFO  Action:26 - READ: To read an item from database
+2020-02-11 15:49:59 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 15:49:59 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 15:49:59 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 15:50:02 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:50:02 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:50:02 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:50:02 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:50:02 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:50:02 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:50:02 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:50:02 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:55:52 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 15:55:56 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 15:55:58 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 15:55:58 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 15:55:58 INFO  Domain:43 - ITEM: 
+2020-02-11 15:55:58 INFO  Domain:43 - ORDER: 
+2020-02-11 15:55:58 INFO  Domain:43 - STOP: 
+2020-02-11 15:56:00 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 15:56:00 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 15:56:00 INFO  Action:26 - READ: To read an item from database
+2020-02-11 15:56:00 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 15:56:00 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 15:56:00 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 15:56:03 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:56:03 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:56:03 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:56:03 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:56:03 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:56:03 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:56:03 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:56:03 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:58:34 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 15:58:41 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 15:58:42 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 15:58:42 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 15:58:42 INFO  Domain:43 - ITEM: 
+2020-02-11 15:58:42 INFO  Domain:43 - ORDER: 
+2020-02-11 15:58:42 INFO  Domain:43 - STOP: 
+2020-02-11 15:58:52 ERROR Domain:33 - Invalid Selection
+2020-02-11 15:59:09 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 15:59:12 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 15:59:13 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 15:59:13 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 15:59:13 INFO  Domain:43 - ITEM: 
+2020-02-11 15:59:13 INFO  Domain:43 - ORDER: 
+2020-02-11 15:59:13 INFO  Domain:43 - STOP: 
+2020-02-11 15:59:17 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 15:59:17 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 15:59:17 INFO  Action:26 - READ: To read an item from database
+2020-02-11 15:59:17 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 15:59:17 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 15:59:17 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 15:59:20 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:59:20 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:59:20 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:59:20 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:59:20 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:59:20 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:59:20 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:59:20 INFO  CustomerController:20 - ID : nullFirst Name : custmer_id, customer_name
+2020-02-11 15:59:52 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 15:59:54 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 15:59:55 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 15:59:55 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 15:59:55 INFO  Domain:43 - ITEM: 
+2020-02-11 15:59:55 INFO  Domain:43 - ORDER: 
+2020-02-11 15:59:55 INFO  Domain:43 - STOP: 
+2020-02-11 15:59:59 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 15:59:59 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 15:59:59 INFO  Action:26 - READ: To read an item from database
+2020-02-11 15:59:59 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 15:59:59 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 15:59:59 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 16:00:01 ERROR Action:37 - Invalid selection
+2020-02-11 16:00:03 INFO  CustomerController:20 - ID : nullFirst Name : 1Chris Perrins
+2020-02-11 16:00:03 INFO  CustomerController:20 - ID : nullFirst Name : 2Jeevan Jagpal
+2020-02-11 16:00:03 INFO  CustomerController:20 - ID : nullFirst Name : 3Ash Ketch
+2020-02-11 16:00:03 INFO  CustomerController:20 - ID : nullFirst Name : 4Sam L Jackson
+2020-02-11 16:00:03 INFO  CustomerController:20 - ID : nullFirst Name : 5Tom Jones
+2020-02-11 16:00:03 INFO  CustomerController:20 - ID : nullFirst Name : 6Janet Williams
+2020-02-11 16:00:03 INFO  CustomerController:20 - ID : nullFirst Name : 7Mike White
+2020-02-11 16:00:03 INFO  CustomerController:20 - ID : nullFirst Name : 8Fred Berry
+2020-02-11 16:00:47 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 16:00:49 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 16:00:49 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 16:00:49 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 16:00:49 INFO  Domain:43 - ITEM: 
+2020-02-11 16:00:49 INFO  Domain:43 - ORDER: 
+2020-02-11 16:00:49 INFO  Domain:43 - STOP: 
+2020-02-11 16:00:53 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 16:00:53 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 16:00:53 INFO  Action:26 - READ: To read an item from database
+2020-02-11 16:00:53 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 16:00:53 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 16:00:53 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 16:00:54 INFO  CustomerController:20 - ID : 1First Name : Chris Perrins
+2020-02-11 16:00:54 INFO  CustomerController:20 - ID : 2First Name : Jeevan Jagpal
+2020-02-11 16:00:54 INFO  CustomerController:20 - ID : 3First Name : Ash Ketch
+2020-02-11 16:00:54 INFO  CustomerController:20 - ID : 4First Name : Sam L Jackson
+2020-02-11 16:00:54 INFO  CustomerController:20 - ID : 5First Name : Tom Jones
+2020-02-11 16:00:54 INFO  CustomerController:20 - ID : 6First Name : Janet Williams
+2020-02-11 16:00:54 INFO  CustomerController:20 - ID : 7First Name : Mike White
+2020-02-11 16:00:54 INFO  CustomerController:20 - ID : 8First Name : Fred Berry
+2020-02-11 16:01:27 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 16:01:29 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 16:01:30 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 16:01:30 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 16:01:30 INFO  Domain:43 - ITEM: 
+2020-02-11 16:01:30 INFO  Domain:43 - ORDER: 
+2020-02-11 16:01:30 INFO  Domain:43 - STOP: 
+2020-02-11 16:01:35 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 16:01:35 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 16:01:35 INFO  Action:26 - READ: To read an item from database
+2020-02-11 16:01:35 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 16:01:35 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 16:01:35 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 16:01:37 INFO  CustomerController:20 - ID : 1 First Name : Chris Perrins
+2020-02-11 16:01:37 INFO  CustomerController:20 - ID : 2 First Name : Jeevan Jagpal
+2020-02-11 16:01:37 INFO  CustomerController:20 - ID : 3 First Name : Ash Ketch
+2020-02-11 16:01:37 INFO  CustomerController:20 - ID : 4 First Name : Sam L Jackson
+2020-02-11 16:01:37 INFO  CustomerController:20 - ID : 5 First Name : Tom Jones
+2020-02-11 16:01:37 INFO  CustomerController:20 - ID : 6 First Name : Janet Williams
+2020-02-11 16:01:37 INFO  CustomerController:20 - ID : 7 First Name : Mike White
+2020-02-11 16:01:37 INFO  CustomerController:20 - ID : 8 First Name : Fred Berry
+2020-02-11 16:02:18 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 16:02:23 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 16:02:25 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 16:02:25 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 16:02:25 INFO  Domain:43 - ITEM: 
+2020-02-11 16:02:25 INFO  Domain:43 - ORDER: 
+2020-02-11 16:02:25 INFO  Domain:43 - STOP: 
+2020-02-11 16:02:27 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 16:02:27 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 16:02:27 INFO  Action:26 - READ: To read an item from database
+2020-02-11 16:02:27 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 16:02:27 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 16:02:27 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 16:02:31 INFO  CustomerController:20 - ID : 1 Name : Chris Perrins
+2020-02-11 16:02:31 INFO  CustomerController:20 - ID : 2 Name : Jeevan Jagpal
+2020-02-11 16:02:31 INFO  CustomerController:20 - ID : 3 Name : Ash Ketch
+2020-02-11 16:02:31 INFO  CustomerController:20 - ID : 4 Name : Sam L Jackson
+2020-02-11 16:02:31 INFO  CustomerController:20 - ID : 5 Name : Tom Jones
+2020-02-11 16:02:31 INFO  CustomerController:20 - ID : 6 Name : Janet Williams
+2020-02-11 16:02:31 INFO  CustomerController:20 - ID : 7 Name : Mike White
+2020-02-11 16:02:31 INFO  CustomerController:20 - ID : 8 Name : Fred Berry
+2020-02-11 16:02:46 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-11 16:02:51 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-11 16:02:51 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-11 16:02:51 INFO  Domain:43 - CUSTOMER: 
+2020-02-11 16:02:51 INFO  Domain:43 - ITEM: 
+2020-02-11 16:02:51 INFO  Domain:43 - ORDER: 
+2020-02-11 16:02:51 INFO  Domain:43 - STOP: 
+2020-02-11 16:02:54 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-11 16:02:54 INFO  Action:26 - CREATE: To save a item into database
+2020-02-11 16:02:54 INFO  Action:26 - READ: To read an item from database
+2020-02-11 16:02:54 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-11 16:02:54 INFO  Action:26 - DELETE: To remove item from database
+2020-02-11 16:02:54 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-11 16:03:03 INFO  CustomerController:20 - ID : 1--> Name : Chris Perrins
+2020-02-11 16:03:03 INFO  CustomerController:20 - ID : 2--> Name : Jeevan Jagpal
+2020-02-11 16:03:03 INFO  CustomerController:20 - ID : 3--> Name : Ash Ketch
+2020-02-11 16:03:03 INFO  CustomerController:20 - ID : 4--> Name : Sam L Jackson
+2020-02-11 16:03:03 INFO  CustomerController:20 - ID : 5--> Name : Tom Jones
+2020-02-11 16:03:03 INFO  CustomerController:20 - ID : 6--> Name : Janet Williams
+2020-02-11 16:03:03 INFO  CustomerController:20 - ID : 7--> Name : Mike White
+2020-02-11 16:03:03 INFO  CustomerController:20 - ID : 8--> Name : Fred Berry
+2020-02-12 11:35:58 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-12 11:36:00 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-12 11:36:02 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-12 11:36:02 INFO  Domain:43 - CUSTOMER: 
+2020-02-12 11:36:02 INFO  Domain:43 - ITEM: 
+2020-02-12 11:36:02 INFO  Domain:43 - ORDER: 
+2020-02-12 11:36:02 INFO  Domain:43 - STOP: 
+2020-02-12 11:36:05 INFO  ProjectIMS:28 - What you like to do with this: customer:
+2020-02-12 11:36:05 INFO  Action:26 - CREATE: To save a item into database
+2020-02-12 11:36:05 INFO  Action:26 - READ: To read an item from database
+2020-02-12 11:36:05 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-12 11:36:05 INFO  Action:26 - DELETE: To remove item from database
+2020-02-12 11:36:05 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-12 11:36:08 INFO  CustomerController:27 - ID : 1 -->  Name : Chris Perrins
+2020-02-12 11:36:08 INFO  CustomerController:27 - ID : 2 -->  Name : Jeevan Jagpal
+2020-02-12 11:36:08 INFO  CustomerController:27 - ID : 3 -->  Name : Ash Ketch
+2020-02-12 11:36:08 INFO  CustomerController:27 - ID : 4 -->  Name : Sam L Jackson
+2020-02-12 11:36:08 INFO  CustomerController:27 - ID : 5 -->  Name : Tom Jones
+2020-02-12 11:36:08 INFO  CustomerController:27 - ID : 6 -->  Name : Janet Williams
+2020-02-12 11:36:08 INFO  CustomerController:27 - ID : 7 -->  Name : Mike White
+2020-02-12 11:36:08 INFO  CustomerController:27 - ID : 8 -->  Name : Fred Berry
+2020-02-12 16:37:43 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-12 16:37:48 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-12 16:37:49 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-12 16:37:49 INFO  Domain:43 - CUSTOMER: 
+2020-02-12 16:37:49 INFO  Domain:43 - ITEM: 
+2020-02-12 16:37:49 INFO  Domain:43 - ORDER: 
+2020-02-12 16:37:49 INFO  Domain:43 - STOP: 
+2020-02-12 16:37:53 INFO  ProjectIMS:28 - What you like to do with this: item:
+2020-02-12 16:37:53 INFO  Action:26 - CREATE: To save a item into database
+2020-02-12 16:37:53 INFO  Action:26 - READ: To read an item from database
+2020-02-12 16:37:53 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-12 16:37:53 INFO  Action:26 - DELETE: To remove item from database
+2020-02-12 16:37:53 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-12 16:38:23 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-12 16:38:26 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-12 16:38:29 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-12 16:38:29 INFO  Domain:43 - CUSTOMER: 
+2020-02-12 16:38:29 INFO  Domain:43 - ITEM: 
+2020-02-12 16:38:29 INFO  Domain:43 - ORDER: 
+2020-02-12 16:38:29 INFO  Domain:43 - STOP: 
+2020-02-12 16:38:32 INFO  ProjectIMS:28 - What you like to do with this: item:
+2020-02-12 16:38:32 INFO  Action:26 - CREATE: To save a item into database
+2020-02-12 16:38:32 INFO  Action:26 - READ: To read an item from database
+2020-02-12 16:38:32 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-12 16:38:32 INFO  Action:26 - DELETE: To remove item from database
+2020-02-12 16:38:32 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-12 16:39:31 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-12 16:39:38 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-12 16:39:40 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-12 16:39:40 INFO  Domain:43 - CUSTOMER: 
+2020-02-12 16:39:40 INFO  Domain:43 - ITEM: 
+2020-02-12 16:39:40 INFO  Domain:43 - ORDER: 
+2020-02-12 16:39:40 INFO  Domain:43 - STOP: 
+2020-02-12 16:39:42 INFO  ProjectIMS:28 - What you like to do with this: item:
+2020-02-12 16:39:42 INFO  Action:26 - CREATE: To save a item into database
+2020-02-12 16:39:42 INFO  Action:26 - READ: To read an item from database
+2020-02-12 16:39:42 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-12 16:39:42 INFO  Action:26 - DELETE: To remove item from database
+2020-02-12 16:39:42 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-12 16:40:19 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-12 16:40:23 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-12 16:40:24 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-12 16:40:24 INFO  Domain:43 - CUSTOMER: 
+2020-02-12 16:40:24 INFO  Domain:43 - ITEM: 
+2020-02-12 16:40:24 INFO  Domain:43 - ORDER: 
+2020-02-12 16:40:24 INFO  Domain:43 - STOP: 
+2020-02-12 16:40:26 INFO  ProjectIMS:28 - What you like to do with this: item:
+2020-02-12 16:40:26 INFO  Action:26 - CREATE: To save a item into database
+2020-02-12 16:40:26 INFO  Action:26 - READ: To read an item from database
+2020-02-12 16:40:26 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-12 16:40:26 INFO  Action:26 - DELETE: To remove item from database
+2020-02-12 16:40:26 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-12 16:41:36 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-12 17:34:54 INFO  ProjectIMS:19 - Please enter your username : 
+2020-02-12 17:35:01 INFO  ProjectIMS:21 - Please enter your password :
+2020-02-12 17:35:02 INFO  ProjectIMS:24 - What entity would you like? 
+2020-02-12 17:35:02 INFO  Domain:43 - CUSTOMER: 
+2020-02-12 17:35:02 INFO  Domain:43 - ITEM: 
+2020-02-12 17:35:02 INFO  Domain:43 - ORDER: 
+2020-02-12 17:35:02 INFO  Domain:43 - STOP: 
+2020-02-12 17:35:04 INFO  ProjectIMS:28 - What you like to do with this: item:
+2020-02-12 17:35:04 INFO  Action:26 - CREATE: To save a item into database
+2020-02-12 17:35:04 INFO  Action:26 - READ: To read an item from database
+2020-02-12 17:35:04 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-12 17:35:04 INFO  Action:26 - DELETE: To remove item from database
+2020-02-12 17:35:04 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:08:31 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:08:34 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:08:35 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:08:35 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:08:35 INFO  Domain:43 - ITEM: 
+2020-02-13 10:08:35 INFO  Domain:43 - ORDER: 
+2020-02-13 10:08:35 INFO  Domain:43 - STOP: 
+2020-02-13 10:08:37 INFO  ProjectIMS:31 - What you like to do with this: item:
+2020-02-13 10:08:37 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:08:37 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:08:37 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:08:37 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:08:37 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:10:50 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:16:11 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:16:14 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:16:15 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:16:15 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:16:15 INFO  Domain:43 - ITEM: 
+2020-02-13 10:16:15 INFO  Domain:43 - ORDER: 
+2020-02-13 10:16:15 INFO  Domain:43 - STOP: 
+2020-02-13 10:16:17 INFO  ProjectIMS:31 - What you like to do with this: item:
+2020-02-13 10:16:17 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:16:17 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:16:17 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:16:17 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:16:17 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:16:27 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:16:31 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:16:32 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:16:32 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:16:32 INFO  Domain:43 - ITEM: 
+2020-02-13 10:16:32 INFO  Domain:43 - ORDER: 
+2020-02-13 10:16:32 INFO  Domain:43 - STOP: 
+2020-02-13 10:16:34 INFO  ProjectIMS:31 - What you like to do with this: customer:
+2020-02-13 10:16:34 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:16:34 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:16:34 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:16:34 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:16:34 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:16:36 INFO  CustomerController:32 - ID : 1 -->  Name : Chris Perrins
+2020-02-13 10:16:36 INFO  CustomerController:32 - ID : 2 -->  Name : Jeevan Jagpal
+2020-02-13 10:16:36 INFO  CustomerController:32 - ID : 3 -->  Name : Ash Ketch
+2020-02-13 10:16:36 INFO  CustomerController:32 - ID : 4 -->  Name : Sam L Jackson
+2020-02-13 10:16:36 INFO  CustomerController:32 - ID : 5 -->  Name : Tom Jones
+2020-02-13 10:16:36 INFO  CustomerController:32 - ID : 6 -->  Name : Janet Williams
+2020-02-13 10:16:36 INFO  CustomerController:32 - ID : 7 -->  Name : Mike White
+2020-02-13 10:16:36 INFO  CustomerController:32 - ID : 8 -->  Name : Fred Berry
+2020-02-13 10:16:53 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:16:56 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:16:58 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:16:58 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:16:58 INFO  Domain:43 - ITEM: 
+2020-02-13 10:16:58 INFO  Domain:43 - ORDER: 
+2020-02-13 10:16:58 INFO  Domain:43 - STOP: 
+2020-02-13 10:16:59 INFO  ProjectIMS:31 - What you like to do with this: item:
+2020-02-13 10:16:59 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:16:59 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:16:59 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:16:59 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:16:59 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:20:31 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:20:35 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:20:36 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:20:36 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:20:36 INFO  Domain:43 - ITEM: 
+2020-02-13 10:20:36 INFO  Domain:43 - ORDER: 
+2020-02-13 10:20:36 INFO  Domain:43 - STOP: 
+2020-02-13 10:20:41 INFO  ProjectIMS:31 - What you like to do with this: item:
+2020-02-13 10:20:41 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:20:41 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:20:41 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:20:41 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:20:41 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:21:57 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:21:59 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:21:59 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:21:59 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:21:59 INFO  Domain:43 - ITEM: 
+2020-02-13 10:21:59 INFO  Domain:43 - ORDER: 
+2020-02-13 10:21:59 INFO  Domain:43 - STOP: 
+2020-02-13 10:22:02 INFO  ProjectIMS:31 - What you like to do with this: customer:
+2020-02-13 10:22:02 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:22:02 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:22:02 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:22:02 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:22:02 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:22:05 INFO  CustomerController:32 - ID : 1 -->  Name : Chris Perrins
+2020-02-13 10:22:05 INFO  CustomerController:32 - ID : 2 -->  Name : Jeevan Jagpal
+2020-02-13 10:22:05 INFO  CustomerController:32 - ID : 3 -->  Name : Ash Ketch
+2020-02-13 10:22:05 INFO  CustomerController:32 - ID : 4 -->  Name : Sam L Jackson
+2020-02-13 10:22:05 INFO  CustomerController:32 - ID : 5 -->  Name : Tom Jones
+2020-02-13 10:22:05 INFO  CustomerController:32 - ID : 6 -->  Name : Janet Williams
+2020-02-13 10:22:05 INFO  CustomerController:32 - ID : 7 -->  Name : Mike White
+2020-02-13 10:22:05 INFO  CustomerController:32 - ID : 8 -->  Name : Fred Berry
+2020-02-13 10:25:45 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:25:49 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:25:50 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:25:50 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:25:50 INFO  Domain:43 - ITEM: 
+2020-02-13 10:25:50 INFO  Domain:43 - ORDER: 
+2020-02-13 10:25:50 INFO  Domain:43 - STOP: 
+2020-02-13 10:25:53 INFO  ProjectIMS:31 - What you like to do with this: item:
+2020-02-13 10:25:53 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:25:53 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:25:53 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:25:53 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:25:53 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:28:00 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:28:02 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:28:02 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:28:02 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:28:02 INFO  Domain:43 - ITEM: 
+2020-02-13 10:28:02 INFO  Domain:43 - ORDER: 
+2020-02-13 10:28:02 INFO  Domain:43 - STOP: 
+2020-02-13 10:28:04 ERROR Domain:33 - Invalid Selection
+2020-02-13 10:28:07 INFO  ProjectIMS:31 - What you like to do with this: item:
+2020-02-13 10:28:07 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:28:07 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:28:07 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:28:07 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:28:07 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:30:20 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-13 10:30:21 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-13 10:30:22 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-13 10:30:22 INFO  Domain:43 - CUSTOMER: 
+2020-02-13 10:30:22 INFO  Domain:43 - ITEM: 
+2020-02-13 10:30:22 INFO  Domain:43 - ORDER: 
+2020-02-13 10:30:22 INFO  Domain:43 - STOP: 
+2020-02-13 10:30:25 INFO  ProjectIMS:31 - What you like to do with this: item:
+2020-02-13 10:30:25 INFO  Action:26 - CREATE: To save a item into database
+2020-02-13 10:30:25 INFO  Action:26 - READ: To read an item from database
+2020-02-13 10:30:25 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-13 10:30:25 INFO  Action:26 - DELETE: To remove item from database
+2020-02-13 10:30:25 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 1 Item Name : Egg Incubator Item Cost : 150
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 2 Item Name : Poke Balls Item Cost : 10
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 3 Item Name : Incense Item Cost : 80
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 4 Item Name : Lucky Egg Item Cost : 80
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 5 Item Name : Potion Item Cost : 75
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 6 Item Name : Super Potion Item Cost : 100
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 7 Item Name : Hyper Potion Item Cost : 125
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 8 Item Name : Max Potion Item Cost : 150
+2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 9 Item Name : Raid Pass Item Cost : 200
+2020-02-13 12:01:47 INFO  ProjectIMS:22 - Please enter your username : 

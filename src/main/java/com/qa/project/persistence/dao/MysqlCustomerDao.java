@@ -7,6 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.List;
 
 import org.apache.log4j.Logger;
 
@@ -27,8 +28,8 @@ public class MysqlCustomerDao implements Dao<Customer> {
 	}
 
 	@Override
-	public ArrayList<Customer> readAll() {
-		ArrayList<Customer> customers = new ArrayList<Customer>();
+	public List<Customer> readAll() {
+		List<Customer> customers = new ArrayList<Customer>();
 		try (Connection conn = DriverManager.getConnection("jdbc:mysql://35.242.177.58:3306/LMS", "root",
 				"QAConsulting69")) {
 			Statement statement = conn.createStatement();

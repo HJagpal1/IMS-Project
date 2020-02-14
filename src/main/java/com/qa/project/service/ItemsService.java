@@ -8,12 +8,12 @@ import com.qa.project.persistence.domain.Items;
 public class ItemsService implements CrudService<Items>{
 	Dao<Items> itemDao;
 
-	public ItemsService(Dao<Items> customerDao) {
-		this.itemDao = customerDao;
+	public ItemsService(Dao<Items> itemDao) {
+		this.itemDao = itemDao;
 	}
 
 	@Override
-	public List<Items> readAll() {
+	public List<Items> readAll() { 
 		return itemDao.readAll();
 	}
 

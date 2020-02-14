@@ -1,9 +1,9 @@
 package com.qa.project.persistence.dao;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public interface Dao<T> {
-	public ArrayList<T>readAll();
+	public List<T>readAll();
 		
 	public void create(T t);
 		

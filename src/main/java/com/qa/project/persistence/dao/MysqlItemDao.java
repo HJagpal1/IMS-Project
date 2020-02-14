@@ -7,6 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.List;
 
 import org.apache.log4j.Logger;
 
@@ -18,28 +19,30 @@ import com.qa.project.persistence.domain.Items;
 
 public class MysqlItemDao implements Dao<Items> {
 
-	public static final Logger LOGGER = Logger.getLogger(ItemsController.class);
+	public static final Logger LOGGER = Logger.getLogger(MysqlItemDao.class);
 
+	
 	private Items itemsFromResultSet(ResultSet resultSet) throws SQLException {
 		// TODO Auto-generated method stub
 		Long itemId = resultSet.getLong("items_id");
 		String itemName = resultSet.getString("items_name");
-		int value = resultSet.getInt("items_value");
+		Long value = resultSet.getLong("items_value");
 		return new Items(itemId, itemName, value);
 	}
 
+	
+	/**
+	 * readAll which show the user all items within the items table
+	 */
 	@Override
-	public ArrayList<Items> readAll() {
-		ArrayList<Items> items = new ArrayList<Items>();
+	public List<Items> readAll() {
+		List<Items> items = new ArrayList<>();
 		try (Connection conn = DriverManager.getConnection("jdbc:mysql://35.242.177.58:3306/LMS", "root",
 				"QAConsulting69")) {
 			Statement statement = conn.createStatement();
-			ResultSet rs = statement.executeQuery("select * from items");
-			while (rs.next()) {
-				Long itemId = rs.getLong("items_id");
-				String itemName = rs.getString("items_name"); 
-				int value = rs.getInt("items_value");
-				Items item = new Items(itemId, itemName, value);
+			ResultSet resultSet = statement.executeQuery("select * from items");
+			while (resultSet.next()) {
+				Items item = itemsFromResultSet(resultSet);
 				items.add(item);
 			}
 		} catch (SQLException e) {
@@ -48,13 +51,20 @@ public class MysqlItemDao implements Dao<Items> {
 		}
 		return items;
 	}
-
-	private Items readItem(Long id) {
+	
+	
+	
+ /**
+  * readItem will look for a certain item by searching for items id.
+  * @param itemId
+  * @return
+  */
+	private Items readItem(Long itemId) {
 		// TODO Auto-generated method stub
 		Items cust = null;
 		try (Connection connection = DriverManager.getConnection("jdbc:mysql://jdbc:mysql://35.242.177.58:3306/LMS");
 				Statement statement = connection.createStatement();
-				ResultSet resultSet = statement.executeQuery("SELECT FROM items where id = " + itemId);) {
+				ResultSet resultSet = statement.executeQuery("SELECT FROM items where itemId = " + itemId);) {
 			resultSet.next();
 			cust = itemsFromResultSet(resultSet);
 		} catch (SQLException e) {
@@ -64,6 +74,12 @@ public class MysqlItemDao implements Dao<Items> {
 		return cust;
 	}
 
+	
+	
+	
+	/**
+	 * Will create a new item with in the table. 
+	 */
 	@Override
 	public void create(Items items) {
 		try (Connection conn = DriverManager.getConnection("jdbc:mysql://jdbc:mysql://35.242.177.58:3306/LMS")) {
@@ -74,9 +90,14 @@ public class MysqlItemDao implements Dao<Items> {
 			LOGGER.error(e.getMessage());
 		}
 	}
-
+	
+	
+	
+	/**
+	 * An item may need to be updated. 
+	 */
 	@Override
-	public void update(long id, Items t) {
+	public void update(long itemId, Items t) {
 		// TODO Auto-generated method stub
 		try (Connection conn = DriverManager.getConnection("jdbc:mysql://jdbc:mysql://35.242.177.58:3306/LMS")) {
 			Statement statement = conn.createStatement();
@@ -89,9 +110,14 @@ public class MysqlItemDao implements Dao<Items> {
 		}
 
 	}
-
+	
+	
+	
+	/**
+	 * Delete an item by searching for the name
+	 */
 	@Override
-	public void delete(long id) {
+	public void delete(long itemId) {
 		// TODO Auto-generated method stub
 		try (Connection conn = DriverManager.getConnection("jdbc:mysql://jdbc:mysql://35.242.177.58:3306/LMS")) {
 			Statement statement = conn.createStatement();
