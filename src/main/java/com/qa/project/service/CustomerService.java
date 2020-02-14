@@ -16,6 +16,7 @@ public class CustomerService implements CrudService<Customer> {
 	public List<Customer> readAll() {
 		return customerDao.readAll();
 	}
+	
 
 	@Override
 	public void create(Customer customer) {

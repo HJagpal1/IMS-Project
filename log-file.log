@@ -489,3 +489,80 @@
 2020-02-14 14:20:04 INFO  CustomerController:57 - Please enter the customer name
 2020-02-14 14:20:04 INFO  CustomerController:60 - The customers information has been updated
 2020-02-14 14:20:04 INFO  CustomerController:68 - Please enter the customers ID that needs to be deleted
+2020-02-14 15:11:40 INFO  CustomerController:32 - ID : null -->  Name : Chris Perrins
+2020-02-14 15:11:40 INFO  CustomerController:32 - ID : null -->  Name : Jeevan Jagpal
+2020-02-14 15:11:40 INFO  CustomerController:32 - ID : null -->  Name : Fred Berry
+2020-02-14 15:11:40 INFO  CustomerController:55 - Please enter the id of the customer that needs updating
+2020-02-14 15:11:40 INFO  CustomerController:57 - Please enter the customer name
+2020-02-14 15:11:40 INFO  CustomerController:60 - The customers information has been updated
+2020-02-14 15:11:40 INFO  CustomerController:68 - Please enter the customers ID that needs to be deleted
+2020-02-14 15:21:14 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-14 15:21:19 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-14 15:21:21 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-14 15:21:21 INFO  Domain:43 - CUSTOMER: 
+2020-02-14 15:21:21 INFO  Domain:43 - ITEM: 
+2020-02-14 15:21:21 INFO  Domain:43 - ORDER: 
+2020-02-14 15:21:21 INFO  Domain:43 - STOP: 
+2020-02-14 15:21:24 INFO  ProjectIMS:31 - What you like to do with this: customer:
+2020-02-14 15:21:24 INFO  Action:26 - CREATE: To save a item into database
+2020-02-14 15:21:24 INFO  Action:26 - READ: To read an item from database
+2020-02-14 15:21:24 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-14 15:21:24 INFO  Action:26 - DELETE: To remove item from database
+2020-02-14 15:21:24 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-14 15:21:26 INFO  CustomerController:42 - Please can you enter you name
+2020-02-14 15:21:33 ERROR CustomerController:72 - Cannot load connection class because of underlying exception: com.mysql.cj.exceptions.WrongArgumentException: Malformed database URL, failed to parse the main URL sections.
+2020-02-14 15:21:33 INFO  CustomerController:45 - A new customer has been created
+2020-02-14 15:21:33 INFO  ItemsController:42 - Please can you enter you name
+2020-02-14 15:21:49 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-14 15:21:52 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-14 15:21:54 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-14 15:21:54 INFO  Domain:43 - CUSTOMER: 
+2020-02-14 15:21:54 INFO  Domain:43 - ITEM: 
+2020-02-14 15:21:54 INFO  Domain:43 - ORDER: 
+2020-02-14 15:21:54 INFO  Domain:43 - STOP: 
+2020-02-14 15:21:58 INFO  ProjectIMS:31 - What you like to do with this: customer:
+2020-02-14 15:21:58 INFO  Action:26 - CREATE: To save a item into database
+2020-02-14 15:21:58 INFO  Action:26 - READ: To read an item from database
+2020-02-14 15:21:58 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-14 15:21:58 INFO  Action:26 - DELETE: To remove item from database
+2020-02-14 15:21:58 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-14 15:22:17 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-14 15:22:22 ERROR CustomerController:45 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2020-02-14 15:22:39 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-14 15:22:41 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-14 15:22:43 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-14 15:22:43 INFO  Domain:43 - CUSTOMER: 
+2020-02-14 15:22:43 INFO  Domain:43 - ITEM: 
+2020-02-14 15:22:43 INFO  Domain:43 - ORDER: 
+2020-02-14 15:22:43 INFO  Domain:43 - STOP: 
+2020-02-14 15:22:43 ERROR MysqlItemDao:50 - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2020-02-14 15:23:06 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-14 15:26:25 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-14 15:26:27 INFO  ProjectIMS:24 - Please enter your password :
+2020-02-14 15:26:29 INFO  ProjectIMS:27 - What entity would you like? 
+2020-02-14 15:26:29 INFO  Domain:43 - CUSTOMER: 
+2020-02-14 15:26:29 INFO  Domain:43 - ITEM: 
+2020-02-14 15:26:29 INFO  Domain:43 - ORDER: 
+2020-02-14 15:26:29 INFO  Domain:43 - STOP: 
+2020-02-14 15:26:31 INFO  ProjectIMS:31 - What you like to do with this: customer:
+2020-02-14 15:26:31 INFO  Action:26 - CREATE: To save a item into database
+2020-02-14 15:26:31 INFO  Action:26 - READ: To read an item from database
+2020-02-14 15:26:31 INFO  Action:26 - UPDATE: To change an item within the database
+2020-02-14 15:26:31 INFO  Action:26 - DELETE: To remove item from database
+2020-02-14 15:26:31 INFO  Action:26 - RETURN: To return to domain selection
+2020-02-14 15:26:34 INFO  CustomerController:32 - ID : 1 -->  Name : Chris Perrins
+2020-02-14 15:26:34 INFO  CustomerController:32 - ID : 2 -->  Name : Jeevan Jagpal
+2020-02-14 15:26:34 INFO  CustomerController:32 - ID : 3 -->  Name : Ash Ketch
+2020-02-14 15:26:34 INFO  CustomerController:32 - ID : 4 -->  Name : Sam L Jackson
+2020-02-14 15:26:34 INFO  CustomerController:32 - ID : 5 -->  Name : Tom Jones
+2020-02-14 15:26:34 INFO  CustomerController:32 - ID : 6 -->  Name : Janet Williams
+2020-02-14 15:26:34 INFO  CustomerController:32 - ID : 7 -->  Name : Mike White
+2020-02-14 15:26:34 INFO  CustomerController:32 - ID : 8 -->  Name : Fred Berry
+2020-02-14 15:26:34 INFO  ItemsController:32 - ID : 1 Item Name : Egg Incubator Item Cost : 150
+2020-02-14 15:26:34 INFO  ItemsController:32 - ID : 2 Item Name : Poke Balls Item Cost : 10
+2020-02-14 15:26:34 INFO  ItemsController:32 - ID : 3 Item Name : Incense Item Cost : 80
+2020-02-14 15:26:34 INFO  ItemsController:32 - ID : 4 Item Name : Lucky Egg Item Cost : 80
