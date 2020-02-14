@@ -1,4 +1,4 @@
-//package com.qa.ims.controller;
+package com.qa.ims.controller;
 //
 //import java.util.ArrayList;
 //import java.util.List;
@@ -16,7 +16,9 @@
 //import com.qa.project.service.CustomerService;
 //
 //@RunWith(MockitoJUnitRunner.class)
-//public class CustomerControllerTest {
+public class CustomerControllerTest {
+
+}
 //		
 //		/**
 //		 *  The thing I want to fake functionlity for

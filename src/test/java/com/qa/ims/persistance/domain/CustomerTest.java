@@ -1,4 +1,4 @@
-//package com.qa.ims.persistance.domain;
+package com.qa.ims.persistance.domain;
 //
 //import static org.junit.Assert.assertEquals;
 //import static org.junit.Assert.assertFalse;
@@ -11,7 +11,10 @@
 //
 //import com.qa.project.persistence.domain.Customer;
 //
-//public class CustomerTest {
+public class CustomerTest {
+	
+}
+
 //	
 //	private Customer customer;
 //	private Customer other;
