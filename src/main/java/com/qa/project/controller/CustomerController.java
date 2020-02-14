@@ -18,7 +18,7 @@ public class CustomerController implements CrudController<Customer> {
 		this.customerService = cS;
 	}
 	
-	private String getInput() {
+	public String getInput() {
 		// TODO Auto-generated method stub
 		return Utils.getInput();
 	}

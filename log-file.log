@@ -449,3 +449,43 @@
 2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 8 Item Name : Max Potion Item Cost : 150
 2020-02-13 10:30:28 INFO  ItemsController:32 - ID : 9 Item Name : Raid Pass Item Cost : 200
 2020-02-13 12:01:47 INFO  ProjectIMS:22 - Please enter your username : 
+2020-02-14 13:02:54 INFO  CustomerController:68 - Please enter the customers ID that needs to be deleted
+2020-02-14 13:04:23 INFO  CustomerController:32 - ID : null -->  Name : Chris Perrins
+2020-02-14 13:04:23 INFO  CustomerController:32 - ID : null -->  Name : Jeevan Jagpal
+2020-02-14 13:04:23 INFO  CustomerController:32 - ID : null -->  Name : Fred Berry
+2020-02-14 13:04:23 INFO  CustomerController:68 - Please enter the customers ID that needs to be deleted
+2020-02-14 13:06:32 INFO  CustomerController:32 - ID : null -->  Name : Chris Perrins
+2020-02-14 13:06:32 INFO  CustomerController:32 - ID : null -->  Name : Jeevan Jagpal
+2020-02-14 13:06:32 INFO  CustomerController:32 - ID : null -->  Name : Fred Berry
+2020-02-14 13:06:32 INFO  CustomerController:55 - Please enter the id of the customer that needs updating
+2020-02-14 13:06:32 INFO  CustomerController:57 - Please enter the customer name
+2020-02-14 13:06:32 INFO  CustomerController:60 - The customers information has been updated
+2020-02-14 13:06:32 INFO  CustomerController:68 - Please enter the customers ID that needs to be deleted
+2020-02-14 13:06:56 INFO  CustomerController:32 - ID : null -->  Name : Chris Perrins
+2020-02-14 13:06:56 INFO  CustomerController:32 - ID : null -->  Name : Jeevan Jagpal
+2020-02-14 13:06:56 INFO  CustomerController:32 - ID : null -->  Name : Fred Berry
+2020-02-14 13:06:56 INFO  CustomerController:55 - Please enter the id of the customer that needs updating
+2020-02-14 13:06:56 INFO  CustomerController:57 - Please enter the customer name
+2020-02-14 13:06:56 INFO  CustomerController:60 - The customers information has been updated
+2020-02-14 13:06:56 INFO  CustomerController:42 - Please can you enter you name
+2020-02-14 13:07:12 INFO  CustomerController:32 - ID : null -->  Name : Chris Perrins
+2020-02-14 13:07:12 INFO  CustomerController:32 - ID : null -->  Name : Jeevan Jagpal
+2020-02-14 13:07:12 INFO  CustomerController:32 - ID : null -->  Name : Fred Berry
+2020-02-14 13:07:12 INFO  CustomerController:55 - Please enter the id of the customer that needs updating
+2020-02-14 13:07:12 INFO  CustomerController:57 - Please enter the customer name
+2020-02-14 13:07:12 INFO  CustomerController:60 - The customers information has been updated
+2020-02-14 13:07:12 INFO  CustomerController:42 - Please can you enter you name
+2020-02-14 13:08:12 INFO  CustomerController:32 - ID : null -->  Name : Chris Perrins
+2020-02-14 13:08:12 INFO  CustomerController:32 - ID : null -->  Name : Jeevan Jagpal
+2020-02-14 13:08:12 INFO  CustomerController:32 - ID : null -->  Name : Fred Berry
+2020-02-14 13:08:12 INFO  CustomerController:55 - Please enter the id of the customer that needs updating
+2020-02-14 13:08:12 INFO  CustomerController:57 - Please enter the customer name
+2020-02-14 13:08:12 INFO  CustomerController:60 - The customers information has been updated
+2020-02-14 13:08:12 INFO  CustomerController:68 - Please enter the customers ID that needs to be deleted
+2020-02-14 14:20:04 INFO  CustomerController:32 - ID : null -->  Name : Chris Perrins
+2020-02-14 14:20:04 INFO  CustomerController:32 - ID : null -->  Name : Jeevan Jagpal
+2020-02-14 14:20:04 INFO  CustomerController:32 - ID : null -->  Name : Fred Berry
+2020-02-14 14:20:04 INFO  CustomerController:55 - Please enter the id of the customer that needs updating
+2020-02-14 14:20:04 INFO  CustomerController:57 - Please enter the customer name
+2020-02-14 14:20:04 INFO  CustomerController:60 - The customers information has been updated
+2020-02-14 14:20:04 INFO  CustomerController:68 - Please enter the customers ID that needs to be deleted
